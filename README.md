@@ -17,7 +17,7 @@
 
 <section id="logo">
 <picture>
-	<img src="img/logo.png"  >
+	<a href="index.html"><img src="img/logo.png"  ></a>
 </section>
 </picture>
 
@@ -37,14 +37,14 @@
         <div id="menu"> 
         <ul>
         <section id="boton1">
-            <li><a href="#">conceptos basicos seguridad informatica</a></li> 
+            <li><a href="personal.html">conceptos basicos seguridad informatica</a></li> 
              </section> 
              <section id="boton2">
 
-            <li><a href="#">estandares y normas de la seguridad de redes</a></li> 
+            <li><a href="estandares.html">estandares y normas de la seguridad de redes</a></li> 
              </section>  
              <section id="boton3">
-            <li><a href="#">medidas para el mantenimiento de la seguridad informatica</a></li>
+            <li><a href="mantenimiento.html">medidas para el mantenimiento de la seguridad informatica</a></li>
     </section> 
         </ul>    
        </div>    
@@ -92,15 +92,15 @@
 <div class="colum2">
     <h1>Redes sociales </h1>
 <div class="row">
-    <img src="img/Twitter.png">
+    <a href="https://twitter.com/search?q=unad&src=typd"><img src="img/Twitter.png"></a>
 <label>siguenos en twiter</label>
 </div>
 <div class="row">
-    <img src="img/facebook.jpg">
+    <a href="https://www.facebook.com/Unad-Zona-Boyacá-2003357469918832/"><img src="img/facebook.jpg"></a>
 <label>siguenos en facebook</label>
 </div>
 <div class="row">
-    <img src="img/persona.png">
+    <a href="autor.html"><img src="img/persona.png"></a>
 <label>Datos personales creador pagina web</label>
 </div>
 </div>
@@ -141,3 +141,15 @@
 <script type="js/modernizr.js"></script>
 <script type="js/prefixfree.js"></script>
 </html>
+© 2018 GitHub, Inc.
+Terms
+Privacy
+Security
+Status
+Help
+Contact GitHub
+Pricing
+API
+Training
+Blog
+About
